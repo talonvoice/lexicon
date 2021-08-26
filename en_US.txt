@@ -4156,7 +4156,6 @@ amyotrophic
 amytal
 an
 an's
-an't
 ana
 ana's
 anabaptism
@@ -6363,7 +6362,6 @@ arenanet
 arenas
 arendelle
 arendt
-arent
 areola
 areolar
 areolas
@@ -19502,7 +19500,6 @@ cans
 canseco
 canso
 canst
-cant
 cantab
 cantabile
 cantal
@@ -21702,7 +21699,6 @@ cfius
 cfmeu
 cgroup
 cgroups
-ch'in
 cha
 cha's
 chabad
@@ -29417,7 +29413,6 @@ could've
 coulda
 couldn't
 couldst
-couldve
 coulee
 coulibaly
 coulis
@@ -36139,7 +36134,6 @@ didier
 didio
 didion
 didn't
-didnt
 dido
 dido's
 didrikson
@@ -38239,7 +38233,6 @@ doers
 does
 doeskin
 doesn't
-doesnt
 doest
 doeth
 doff
@@ -57356,7 +57349,6 @@ hadlee
 hadley
 hadlock
 hadn't
-hadnt
 hadoop
 hadrian
 hadrian's
@@ -57697,7 +57689,6 @@ hallooing
 halloran
 halloumi
 hallow
-hallowe'en
 hallowed
 halloween
 halloween's
@@ -58709,7 +58700,6 @@ haslett
 hasmonean
 hasmoneans
 hasn't
-hasnt
 hasp
 hasps
 hassabis
@@ -58890,7 +58880,6 @@ haven
 haven's
 haven't
 havens
-havent
 haver
 haverford
 havering
@@ -59438,7 +59427,6 @@ hectored
 hectoring
 hectors
 hecuba
-hed
 hedberg
 heddle
 heddles
@@ -87658,7 +87646,6 @@ mustiness
 mustn't
 mustoe
 musts
-mustve
 musty
 mut
 mutability
@@ -92120,7 +92107,6 @@ ochs
 ocilla
 ocker
 ockham
-oclock
 ocoee
 oconee
 oconnell
@@ -120591,7 +120577,6 @@ shoulders
 shouldest
 shouldn't
 shouldst
-shouldve
 shoup
 shout
 shout's
@@ -133468,9 +133453,6 @@ thatcherites
 thatchers
 thatches
 thatching
-thatd
-thatll
-thats
 thaumatrope
 thaumaturge
 thaumaturges
@@ -133793,10 +133775,6 @@ they'll
 they're
 they's
 they've
-theyd
-theyll
-theyre
-theyve
 thiago
 thiamin
 thiamine
@@ -145513,7 +145491,6 @@ wasilla
 wasim
 wasm
 wasn't
-wasnt
 wasp
 wasp's
 waspish
@@ -146326,7 +146303,6 @@ were
 weregild
 weren't
 werenski
-werent
 weres
 werewolf
 werewolf's
@@ -148436,7 +148412,6 @@ wouldest
 wouldn't
 woulds
 wouldst
-wouldve
 wound
 wounded
 wounder
@@ -149373,12 +149348,10 @@ you
 you'd
 you'll
 you're
-you's
 you've
 yougov
 youk
 youkilis
-youll
 younes
 young
 young's
@@ -149401,8 +149374,6 @@ younker
 younkers
 yountville
 your
-your's
-youre
 yourn
 yours
 yourself
@@ -149425,7 +149396,6 @@ youtube
 youtube's
 youtuber
 youtubers
-youve
 yow
 yoweri
 yowie
