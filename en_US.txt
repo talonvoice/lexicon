@@ -7,10 +7,12 @@ AMD
 AMD's
 AMOLED
 ANSEL
+API
 ARPAnet
 ASPCA
 ATOC
 AWACS
+AWS
 AX
 Aachen
 Aalborg
@@ -69,6 +71,7 @@ Abkhazia
 Abkhazia's
 Abkhazian
 Abkhazians
+Ableton
 Ablett
 Abner
 Abner's
@@ -170,6 +173,7 @@ Adrian
 Adrian's
 Adriana
 Adriana's
+Adriane
 Adriano
 Adrianople
 Adriatic
@@ -812,6 +816,7 @@ Ardennes
 Ardern
 Ardsley
 Arduino
+Arduinos
 Arecibo
 Arecibo's
 Arellano
@@ -1179,6 +1184,8 @@ BBB's
 BMW
 BMW's
 BOINC
+BPA
+BPAs
 BRA
 BRA's
 BSD
@@ -1822,6 +1829,7 @@ Bevin's
 Bevington
 Bexhill
 Bexley
+Bezier
 Bhagwat
 Bhalla
 Bhandari
@@ -1988,6 +1996,7 @@ Bluebeard's
 Bluebeards
 Bluefield
 Blueshirts
+Bluetooth
 Bluford
 Blum
 Blum's
@@ -2357,6 +2366,8 @@ Bristolian
 Bristolians
 Bristow
 Bristow's
+Brit
+Brit's
 Britain
 Britain's
 Britannia
@@ -2674,6 +2685,7 @@ COINTELPRO
 CONCACAF
 CONELRAD
 CPUSA
+CSV
 CVS
 Cabanatuan
 Cabazon
@@ -3846,6 +3858,9 @@ Cosgrave
 Cosgrove
 Coshocton
 Cosimo
+Costco
+Costco's
+Costcos
 Costigan
 Costigan's
 Costner
@@ -4104,6 +4119,7 @@ DEERS
 DEFCON
 DIMMs
 DJing
+DNS
 DOCSIS
 Dabney
 Dabneys
@@ -4218,6 +4234,8 @@ Darmstadt
 Darnell
 Darrell
 Darrell's
+Darren
+Darren's
 Darrin
 Darrin's
 Darrington
@@ -5512,6 +5530,9 @@ Fabius
 Fabregas
 Fabricio
 Fabrizio
+Facebook
+Facebook's
+Facebooks
 Fackler
 Fadel
 Faeroe
@@ -5688,6 +5709,8 @@ Fiennes
 Fiesole
 Fifield
 Fifita
+FigJam
+Figma
 Figueroa
 Figueroa's
 Fijians
@@ -6020,13 +6043,18 @@ Fusel
 Fushun
 Fuzhou
 Fyodor
+GBP
 GCSEs
+GIF
+GIFs
 GLAAD
 GLONASS
 GOPers
 GTE
 GUAM
 GUAM's
+GUI
+GUIs
 Gaborone
 Gabriela
 Gabriele
@@ -6875,6 +6903,10 @@ HIPAA
 HOAs
 HSBC
 HSBC's
+HTML
+HTTP
+HTTPS
+HUD
 HZ
 HaShem
 Haakon
@@ -7474,6 +7506,7 @@ Herod
 Herod's
 Herodotus
 Herodotus's
+Heroku
 Herold
 Herophilus
 Herrick
@@ -8038,10 +8071,13 @@ ICYMI
 IJssel
 IJsselmeer
 INMARSAT
+IP
 ISCSI
 ITS
 Iago
 Iago's
+Ian
+Ian's
 Iannone
 Iapetus
 Iasi
@@ -8682,13 +8718,19 @@ Jokinen
 Joliet
 Joliette
 Jolyon
+Jon
+Jon's
 Jonah
 Jonah's
 Jonahs
 Jonas
 Jonas's
+Jonathan
+Jonathan's
 Jonathans
 Jonathon
+Jones
+Jones's
 Jonesboro
 Jonestown
 Jonesville
@@ -10081,6 +10123,9 @@ Linton
 Linton's
 Linus
 Linus's
+Linux
+Linux's
+Linuxes
 Linville
 Linwood
 Lipetsk
@@ -10458,6 +10503,9 @@ Mabry
 MacArthur
 MacArthur's
 MacAuley
+MacBook
+MacBook's
+MacBooks
 MacDougall
 MacGuffin
 MacKay
@@ -11637,6 +11685,7 @@ Mindel
 Mindoro
 Mindy
 Mindy's
+Minecraft
 Minho
 Miniconjou
 Minix
@@ -13000,6 +13049,7 @@ Ozawa's
 Ozuna
 Ozymandias
 PACS
+PDF
 POCUS
 POSIX
 Pablo
@@ -14731,7 +14781,10 @@ SOCOM
 SOCRATES
 SOCRATES's
 SPARQL
+SSRI
 SSRIs
+SVG
+SVGs
 Saakashvili
 Saanen
 Saanich
@@ -16294,6 +16347,7 @@ Szeged
 Szombathely
 Szymanowski
 T'ang
+TCP
 THAAD
 Tabatha
 Tabitha
@@ -17165,11 +17219,19 @@ UBS's
 UCLA
 UCLA's
 UConn
+UDP
+UI
+UIs
 UMass
 UNCLOS
 UNODC
+URI
+URIs
+URL
+URLs
 USAAF
 USAID
+USD
 USPTO
 UTAH
 UTAH's
@@ -17299,6 +17361,7 @@ Uzbekistan
 Uzbekistan's
 VIBs
 VOIP
+VPN
 Vaasa
 Vacaville
 Vachon
@@ -17888,6 +17951,7 @@ Whaley
 Whalley
 Wharton
 Wharton's
+WhatsApp
 Wheaties
 Wheatley
 Wheatley's
@@ -18278,6 +18342,7 @@ Xander
 Xanthippe
 Xavier
 Xavier's
+Xcode
 Xenarthra
 Xenocrates
 Xenophanes
@@ -18467,6 +18532,7 @@ Yvette's
 Yvonne
 Yvonne's
 ZELL
+ZFS
 Zabrze
 Zacarias
 Zach
@@ -18799,7 +18865,6 @@ ableist
 abler
 ables
 ablest
-ableton
 abloom
 ablow
 ablution
@@ -19842,7 +19907,6 @@ adland
 adler
 adler's
 adman
-admen
 admin
 administer
 administered
@@ -21575,6 +21639,7 @@ alshon
 also
 alstead
 alstom
+alt
 altaf
 altaic
 altair
@@ -23772,7 +23837,6 @@ approximation
 approximations
 approximative
 apps
-apps
 appurtenance
 appurtenances
 appurtenant
@@ -24122,7 +24186,6 @@ ardor
 ardors
 ardour
 ards
-arduinos
 arduous
 arduously
 arduousness
@@ -24159,6 +24222,7 @@ argala
 argali
 argan
 argand
+argc
 argent
 argenta
 argenteuil
@@ -24206,6 +24270,7 @@ argumentativeness
 arguments
 argumentum
 argus
+argv
 argyle
 argyle's
 argyles
@@ -25229,6 +25294,7 @@ asymptote
 asymptotes
 asymptotic
 asymptotically
+async
 asynchronies
 asynchronous
 asynchronously
@@ -26172,7 +26238,6 @@ awol
 awols
 awper
 awry
-aws
 axanar
 axe
 axe's
@@ -29306,7 +29371,6 @@ bezant
 bezants
 bezel
 bezels
-bezier
 bezoar
 bezoars
 bezos
@@ -30929,7 +30993,6 @@ bluestones
 bluesy
 bluetick
 bluetongue
-bluetooth
 bluets
 bluewater
 bluewings
@@ -32978,8 +33041,6 @@ bristly
 bristol
 bristol's
 bristols
-brit
-brit's
 britannica
 britannica's
 britches
@@ -44040,8 +44101,6 @@ costarred
 costarring
 costars
 costas
-costco
-costco's
 coste
 costed
 costello
@@ -44547,6 +44606,7 @@ covets
 covey
 covey's
 coveys
+covid
 coving
 cow
 cow's
@@ -47020,8 +47080,6 @@ darpa
 darragh
 darrel
 darrelle
-darren
-darren's
 darron
 darshan
 dart
@@ -49757,6 +49815,7 @@ deuterons
 deuterostome
 deuterostomes
 deutschemark
+dev
 deva
 deval
 devaluate
@@ -51949,6 +52008,7 @@ diuretic
 diuretics
 diurnal
 diurnally
+div
 diva
 diva's
 divac
@@ -59051,9 +59111,6 @@ facade
 facades
 face
 face's
-facebook
-facebook's
-facebooks
 facecloth
 faced
 facedown
@@ -60627,7 +60684,6 @@ fighting
 fighting's
 fightings
 fights
-figma
 figment
 figments
 figo
@@ -65869,7 +65925,6 @@ gie
 gielgud
 gien
 gies
-gif
 giffen
 giffgaff
 giffords
@@ -71280,7 +71335,6 @@ heroine's
 heroines
 heroism
 heroisms
-heroku
 heron
 heron's
 heronry
@@ -73999,21 +74053,25 @@ iBook
 iBooks
 iDevice
 iDevices
+iMac
+iMac's
 iMacs
+iOS
 iPad
 iPad's
 iPads
 iPhone
 iPhone's
 iPhones
+iPod
+iPod's
 iPods
+iTunes
 iacocca
 iamb
 iambic
 iambics
 iambs
-ian
-ian's
 iatrogenic
 ibague
 ibaka
@@ -76421,6 +76479,7 @@ inion
 iniquities
 iniquitous
 iniquity
+init
 initial
 initialed
 initialing
@@ -79521,13 +79580,7 @@ jolter
 jolting
 jolts
 jomo
-jon
-jon's
-jonathan
-jonathan's
 jonbenet
-jones
-jones's
 jonesborough
 joneses
 jongleur
@@ -84577,9 +84630,6 @@ linters
 linting
 lints
 linum
-linux
-linux's
-linuxes
 linz
 lion
 lion's
@@ -86310,6 +86360,7 @@ mabus
 mabuse
 mac
 mac's
+macOS
 macabre
 macaco
 macacos
@@ -86431,7 +86482,6 @@ macon's
 macondo
 maconochie
 macor
-macos
 macoun
 macports
 macri
@@ -90966,7 +91016,6 @@ mindszenty
 mine
 mine's
 mineable
-minecraft
 mined
 minefield
 minefields
@@ -131447,6 +131496,7 @@ suddenness
 sudders
 sudds
 sudhir
+sudo
 sudoku
 sudra
 sudras
@@ -136841,6 +136891,7 @@ toddlers
 toddles
 toddling
 toddy
+todo
 todoist
 todos
 tods
@@ -143473,7 +143524,6 @@ urination
 urinators
 urine
 urines
-uris
 urlacher
 urllib
 urman
@@ -147164,7 +147214,6 @@ whatever's
 whatnot
 whatnots
 whats
-whatsapp
 whatshername
 whatshisname
 whatsit
@@ -149005,7 +149054,6 @@ xanthine
 xanthophylls
 xanthus
 xargs
-xcode
 xe
 xebec
 xed
