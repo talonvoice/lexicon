@@ -1,5 +1,4 @@
 a
-a's
 aachen
 aadhaar
 aadhar
@@ -8883,7 +8882,6 @@ azygous
 azzam
 azzarello
 azzurri
-b's
 ba
 ba's
 baa
@@ -18457,7 +18455,6 @@ byzantine
 byzantines
 byzantium
 byzantium's
-c's
 ca
 ca's
 caatinga
@@ -32079,7 +32076,6 @@ czestochowa
 d'annunzio
 d'artagnan
 d'estaing
-d's
 da
 daal
 dab
@@ -40435,7 +40431,6 @@ dzhokhar
 dzungaria
 e'en
 e'er
-e's
 ea
 ea's
 each
@@ -45919,7 +45914,6 @@ ezra
 ezra's
 ezreal
 ezzor
-f's
 fa
 fa's
 faade
@@ -51679,7 +51673,6 @@ fyodor
 fyrd
 fys
 g'day
-g's
 gab
 gab's
 gabar
@@ -57209,8 +57202,6 @@ gyroscopically
 gyrus
 gyves
 gzipped
-h'm
-h's
 ha
 ha'penny
 haakon
@@ -63440,7 +63431,6 @@ i
 i'd
 i'll
 i'm
-i's
 i've
 iacocca
 iago
@@ -68356,7 +68346,6 @@ izzard
 izzat
 izzet
 j'accuse
-j's
 ja
 jab
 jabal
@@ -70196,7 +70185,6 @@ juxtaposition
 juxtapositions
 jynx
 jyoti
-k's
 ka
 kaaba
 kaas
@@ -72905,7 +72893,6 @@ l'enfant
 l'oreal
 l'oreal's
 l'ouverture
-l's
 la
 la's
 laa
@@ -78142,7 +78129,6 @@ lytton
 lytton's
 lyudmila
 lyx
-m's
 ma
 ma'am
 ma's
@@ -87929,7 +87915,6 @@ mzee
 mzees
 mzungu
 n'djamena
-n's
 na
 na's
 naacp
@@ -91658,7 +91643,6 @@ o'neill
 o'neill's
 o'rourke
 o'rourke's
-o's
 o'toole
 o'toole's
 oaf
@@ -95275,7 +95259,6 @@ ozuna
 ozymandias
 ozzie
 ozzie's
-p's
 pa
 pa's
 paar
@@ -106993,7 +106976,6 @@ qurans
 qureshi
 qwerty
 qwest
-r's
 ra
 ra's
 raanta
@@ -115012,7 +114994,6 @@ ryukyuan
 ryukyuans
 ryung
 ryzen
-s's
 saab
 saab's
 saada
@@ -131056,7 +131037,6 @@ szombathely
 szymanowski
 szymborska
 t'ang
-t's
 ta
 ta'en
 taal
@@ -138620,7 +138600,6 @@ tzatziki
 tzipi
 tzitzis
 tzitzit
-u's
 ubaldo
 ubangi
 ubereats
@@ -142380,7 +142359,6 @@ uzbeks
 uzi
 uzi's
 uzis
-v's
 vaal
 vaart
 vaasa
@@ -144747,7 +144725,6 @@ vuvuzelas
 vyacheslav
 vyborg
 vying
-w's
 waac
 waaf
 waal
@@ -148693,7 +148670,6 @@ wytheville
 wyvern
 wyvern's
 wyverns
-x's
 xamarin
 xanadu
 xanadu's
@@ -148809,7 +148785,6 @@ xylophone
 xylophones
 xylose
 y'all
-y's
 ya
 yaakov
 yaalon
@@ -149507,7 +149482,6 @@ yvette's
 yvonne
 yvonne's
 yzerman
-z's
 za
 zabadani
 zabaglione
