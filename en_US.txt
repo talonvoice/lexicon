@@ -13437,6 +13437,8 @@ Pfeifer
 Pfister
 Pfizer
 Pfizer's
+PhD
+PhDs
 Phaedra
 Phaedrus
 Phaethon
@@ -23533,6 +23535,7 @@ apothecary's
 apotheosis
 apotheosized
 apotropaic
+app
 appal
 appall
 appalled
@@ -23768,6 +23771,7 @@ approximating
 approximation
 approximations
 approximative
+apps
 apps
 appurtenance
 appurtenances
