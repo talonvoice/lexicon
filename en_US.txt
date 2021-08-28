@@ -1,19 +1,15 @@
-ADDIE
-ADDIE's
 AFRICOM
 AIPAC
 ALCON
 AMD
 AMD's
 AMOLED
-ANSEL
 API
 ARPAnet
 ASPCA
 ATOC
 AWACS
 AWS
-AX
 Aachen
 Aalborg
 Aalesund
@@ -137,6 +133,8 @@ Adcock
 Addams
 Adderall
 Adderley
+Addie
+Addie's
 Addington
 Addison
 Addison's
@@ -684,6 +682,7 @@ Annmarie
 Anoka
 Ansbach
 Anschluss
+Ansel
 Ansell
 Anselm
 Anselm's
@@ -1186,8 +1185,6 @@ BMW's
 BOINC
 BPA
 BPAs
-BRA
-BRA's
 BSD
 BSD's
 Baalbek
@@ -1790,8 +1787,6 @@ Bessie
 Bessie's
 Bessy
 Bessy's
-Best
-Best's
 Betancourt
 Betelgeuse
 Bethania
@@ -6045,8 +6040,6 @@ Fuzhou
 Fyodor
 GBP
 GCSEs
-GIF
-GIFs
 GLAAD
 GLONASS
 GOPers
@@ -6565,8 +6558,6 @@ Gonzalez
 Gonzalez's
 Gonzalo
 Goochland
-Good
-Good's
 Goodale
 Goodall
 Goodall's
@@ -8073,7 +8064,6 @@ IJsselmeer
 INMARSAT
 IP
 ISCSI
-ITS
 Iago
 Iago's
 Ian
@@ -14036,7 +14026,6 @@ Qurans
 Qureshi
 RCA
 RCA's
-RID
 Rabaul
 Rabbani
 Rabelaisian
@@ -17233,8 +17222,6 @@ USAAF
 USAID
 USD
 USPTO
-UTAH
-UTAH's
 Ubaldo
 Ubangi
 Ubers
@@ -17343,6 +17330,8 @@ Usenet's
 Ushant
 Ushas
 Usman
+Utah
+Utah's
 Utahans
 Utahn
 Utahns
@@ -17908,6 +17897,7 @@ Wenzhou
 Werder
 Werner
 Werner's
+Wes
 Weser
 Wesley
 Wesley's
@@ -18289,7 +18279,6 @@ Worley's
 Worrall
 Worrell
 Worsley
-Worst
 Wortham
 Worthington
 Wotan
@@ -26238,6 +26227,7 @@ awol
 awols
 awper
 awry
+ax
 axanar
 axe
 axe's
@@ -29208,6 +29198,7 @@ bessel's
 besser
 bessies
 besson
+best
 bestbuy
 bestead
 bested
@@ -32283,6 +32274,8 @@ bozos
 bp
 bp's
 br'er
+bra
+bra's
 braavos
 brabant
 brabantio
@@ -65925,9 +65918,11 @@ gie
 gielgud
 gien
 gies
+gif
 giffen
 giffgaff
 giffords
+gifs
 gift
 gift's
 giftable
@@ -67027,6 +67022,7 @@ goober
 goobers
 gooch
 gooch's
+good
 goodby
 goodbye
 goodbyes
@@ -78611,6 +78607,7 @@ itineraries
 itinerary
 ito
 ito's
+its
 itself
 itunes
 iure
@@ -103436,6 +103433,7 @@ pepsi
 pepsi's
 pepsico
 pepsin
+pepsis
 peptic
 peptidase
 peptidases
@@ -117118,6 +117116,7 @@ ricochets
 ricoh
 ricotta
 rictus
+rid
 ridable
 riddance
 ridded
@@ -148773,6 +148772,7 @@ worshipper
 worshippers
 worshipping
 worships
+worst
 worsted
 worsteds
 worsts
@@ -149449,7 +149449,6 @@ yitzhak
 yizkor
 ynetnews
 yo
-yoM
 yob
 yobbo
 yobs
@@ -149503,6 +149502,7 @@ yokuts
 yolk
 yolks
 yolo
+yom
 yomiuri
 yon
 yond
