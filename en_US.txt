@@ -8436,6 +8436,8 @@ Jalisco
 Jallikattu
 Jamal
 Jamal's
+James
+James's
 Jameses
 Jamesian
 Jameson
@@ -78854,10 +78856,7 @@ jambu
 jame
 jameel
 jamel
-james
-james's
 jamesburg
-jamess
 jamesville
 jamey
 jami
