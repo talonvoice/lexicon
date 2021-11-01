@@ -9840,7 +9840,6 @@ Leamington
 Leander
 Leander's
 Leanne
-Learned
 Leavenworth
 Leavitt
 Lebanese
@@ -83254,6 +83253,7 @@ learjet
 learn
 learnability
 learnable
+learned
 learnedly
 learner
 learner's
