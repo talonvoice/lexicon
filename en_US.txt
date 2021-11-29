@@ -20113,7 +20113,6 @@ adroit
 adroitly
 adroitness
 ads
-ads
 adsense
 adsorb
 adsorbed
@@ -35200,7 +35199,6 @@ canasta
 canastota
 canavero
 cancan
-cancel
 cancel
 cancelable
 cancelation
@@ -56098,7 +56096,6 @@ endemicity
 endemics
 endemism
 ender
-ender
 enderlin
 enders
 endgame
@@ -57621,7 +57618,6 @@ ethereally
 etherealness
 etherial
 etheric
-ethernet
 ethernet
 etherpad
 ethers
@@ -71955,7 +71951,6 @@ hipsterism
 hipsters
 hirable
 hiragana
-hiragana
 hiram
 hiram's
 hircine
@@ -76253,11 +76248,8 @@ infight
 infighter
 infighting
 infill
-infill
-infill's
 infilled
 infilling
-infills
 infills
 infiltrate
 infiltrated
@@ -80294,7 +80286,6 @@ kampong
 kampuchea
 kamui
 kana
-kana
 kanab
 kanade
 kanak
@@ -80326,7 +80317,6 @@ kangaroos
 kangas
 kanhaiya
 kanin
-kanji
 kanji
 kannada
 kannur
@@ -80478,7 +80468,6 @@ kasumi
 kat
 kata
 katabatic
-katakana
 katakana
 katamari
 katana
@@ -97269,9 +97258,6 @@ notecard
 notecards
 noted
 notepad
-notepad
-notepad's
-notepads
 notepads
 notepaper
 notes
@@ -113845,7 +113831,6 @@ reddest
 redding
 redding's
 reddish
-reddit
 reddit
 redditgifts
 redditor
@@ -130945,7 +130930,6 @@ suavely
 suaveness
 suavity
 sub
-sub
 sub's
 suba
 subacute
@@ -133310,9 +133294,7 @@ synarchy
 synastry
 synaxis
 sync
-sync
 sync's
-synced
 synced
 synch
 synched
@@ -133342,7 +133324,6 @@ synchrotron
 synchrotrons
 synchs
 syncing
-syncing
 syncline
 syncopal
 syncopate
@@ -133354,7 +133335,6 @@ syncretic
 syncretism
 syncretistic
 syncretized
-syncs
 syncs
 syncytial
 syncytium
@@ -143318,12 +143298,8 @@ unyielding
 unyieldingly
 unyoked
 unzip
-unzip
-unzipped
 unzipped
 unzipping
-unzipping
-unzips
 unzips
 up
 upanishad
@@ -145155,7 +145131,6 @@ villus
 vilna
 vilonia
 vilsack
-vim
 vim
 vim's
 vimana
@@ -147883,7 +147858,6 @@ wifeless
 wifely
 wifes
 wiffle
-wifi
 wifi
 wig
 wigan
