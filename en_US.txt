@@ -1,10 +1,15 @@
+ABS
 AFRICOM
+AI
+AI's
 AIPAC
+AIs
 ALCON
 AMD
 AMD's
 AMOLED
 API
+APO
 ARPAnet
 ASPCA
 ATOC
@@ -432,6 +437,7 @@ Algona
 Algonkin
 Algonquian
 Alhambra
+AliExpress
 Alibaba
 Alioth
 Alisha
@@ -663,6 +669,7 @@ Anhui
 Anish
 Anjou
 Ankeny
+Anki
 Ankit
 Ankole
 Annabel
@@ -1180,6 +1187,7 @@ Azzam
 Azzarello
 BBB
 BBB's
+BLTouch
 BMW
 BMW's
 BOINC
@@ -2670,16 +2678,20 @@ Byron's
 Byronic
 Byzantium
 Byzantium's
+CAD
 CAFOs
 CEGEP
 CEGEPs
 CENTCOM
 CHEOPS
+CMake
 COBOL
 COINTELPRO
 CONCACAF
 CONELRAD
+CPU
 CPUSA
+CPUs
 CSV
 CVS
 Cabanatuan
@@ -3833,6 +3845,7 @@ Correll
 Corrigan
 Corrigan's
 Corry
+Corsair
 Corsica
 Corsican
 Corsicana
@@ -3937,6 +3950,7 @@ Crawfordville
 Crawley
 Crawley's
 Creagh
+Creality
 Crecy
 Creech
 Creighton
@@ -3953,6 +3967,7 @@ Creston
 Creswell
 Cretan
 Cretans
+Creuss
 Crichton
 Crichton's
 Crimean
@@ -4050,6 +4065,7 @@ Cunliffe
 Cuomo
 Cupertino
 Cupertino's
+Cura
 Curbelo
 Curiel
 Curitiba
@@ -4077,6 +4093,7 @@ Cyclades
 Cycladic
 Cyclospora
 Cydia
+Cygwin
 Cymbeline
 Cymric
 Cymru
@@ -4113,6 +4130,7 @@ Czestochowa
 DEERS
 DEFCON
 DIMMs
+DIY
 DJing
 DNS
 DOCSIS
@@ -4405,6 +4423,7 @@ Dennis
 Dennis's
 Dennison
 Dennison's
+Denon
 Denpasar
 Densmore
 Denson
@@ -4913,6 +4932,7 @@ EEPROM
 ELINT
 EMFs
 ENIAC
+EQ
 EULAs
 Eadie
 Eads
@@ -5069,6 +5089,7 @@ Eidson
 Eifel
 Eiffel
 Eiffel's
+Eigen
 Eiger
 Eilat
 Eileen
@@ -5104,6 +5125,7 @@ Eldridge
 Eleanor
 Eleanor's
 Eleazar
+Electrum
 Eleonora
 Eleusinian
 Eleusis
@@ -5180,6 +5202,8 @@ Elmore's
 Elohim
 Elohist
 Eloise
+Elon
+Elon's
 Elora
 Eloy
 Elrod
@@ -6039,10 +6063,13 @@ Fushun
 Fuzhou
 Fyodor
 GBP
+GCC
 GCSEs
 GLAAD
 GLONASS
 GOPers
+GPU
+GPUs
 GTE
 GUAM
 GUAM's
@@ -6219,6 +6246,7 @@ Gaynor
 Gazan
 Gazans
 Gaziantep
+Gcode
 Gdansk
 Gdynia
 Geary
@@ -6426,6 +6454,8 @@ Gisele
 Giselle
 GitHub
 GitHub's
+GitLab
+GitLab's
 Gitlin
 Gitmo
 Giulia
@@ -6890,6 +6920,7 @@ Gwinnett
 Gwynedd
 HAARP
 HBCUs
+HDMI
 HIPAA
 HOAs
 HSBC
@@ -7599,6 +7630,7 @@ Highsmith's
 Hightower
 Hightown
 Higley
+Higurashi
 Hiland
 Hilario
 Hilary
@@ -8055,12 +8087,14 @@ I'll
 I'm
 I've
 IANAL
+IBAN
 IBM
 IBM's
 ICANN
 ICYMI
 IJssel
 IJsselmeer
+IMDb
 INMARSAT
 IP
 ISCSI
@@ -8375,6 +8409,7 @@ Izmit
 JCPOA
 JFK
 JFK's
+JLPT
 JSONP
 Jabal
 Jabalpur
@@ -9490,6 +9525,7 @@ Kristaps
 Kristensen
 Kristian
 Kristiansand
+Kristianstad
 Kristie
 Kristin
 Kristina
@@ -9566,6 +9602,7 @@ Kythera
 Kyushu
 LBJ
 LBJ's
+LG
 LaFrance
 LaTonya
 Labadie
@@ -10035,6 +10072,7 @@ Libya
 Libya's
 Libyan
 Libyans
+Lichess
 Lichfield
 Lichtenstein
 Lichtenstein's
@@ -10114,6 +10152,7 @@ Linton
 Linton's
 Linus
 Linus's
+LinusTechTips
 Linux
 Linux's
 Linuxes
@@ -10482,6 +10521,7 @@ MMORPG
 MNIST
 MOBAs
 MOOCs
+MSI
 Maarten
 Maastricht
 Mabel
@@ -12115,6 +12155,8 @@ Musgrove
 Musial
 Musial's
 Musil
+Musk
+Musk's
 Muskegon
 Muskogean
 Muskogee
@@ -12150,6 +12192,7 @@ NAACP
 NAAFI
 NAFLD
 NAIRU
+NASDAQ
 NHLer
 NHLers
 NORML
@@ -12368,6 +12411,7 @@ Neuberger
 Neufeld
 Neuman
 Neumann
+Neuralink
 Neurosci
 Neurospora
 Nevadan
@@ -12441,6 +12485,7 @@ Nicaragua
 Nicaragua's
 Nicaraguans
 Nicasio
+NiceHash
 Niceville
 Nichiren
 Nichiren's
@@ -12584,6 +12629,7 @@ Norbert
 Norbert's
 Norberto
 Norco
+Nordea
 Nordics
 Nordland
 Nordman
@@ -12670,6 +12716,7 @@ Nuremberg
 Nussbaum
 Nuttall
 Nuzzi
+Nvidia
 Nyasaland
 Nyberg
 Nylander
@@ -12748,6 +12795,7 @@ Oconto
 Octavian
 Octavian's
 Octavio
+OctoPrint
 Oddfellows
 Odebrecht
 Odell
@@ -12881,7 +12929,9 @@ Oostende
 Opel
 Opel's
 Opelousas
+OpenAI
 OpenGL
+OpenSCAD
 Opheim
 Ophelia
 Ophelia's
@@ -12891,6 +12941,7 @@ Oppenheimer
 Oppenheimer's
 Oprah
 Oprah's
+Optikey
 Orangeburg
 Orangeism
 Orangeman
@@ -13040,9 +13091,18 @@ Ozawa's
 Ozuna
 Ozymandias
 PACS
+PC
+PC's
+PCs
 PDF
+PET
+PETG
+PID
+PLA
 POCUS
 POSIX
+PSU
+PSUs
 Pablo
 Pablo's
 Pabst
@@ -13484,6 +13544,7 @@ Phaedra
 Phaedrus
 Phaethon
 Phaneuf
+Phanteks
 Pharisee
 Pharisees
 Pharr
@@ -13638,6 +13699,7 @@ Plantagenets
 Plantinga
 Plataea
 Plataeans
+PlatformIO
 Plath
 Plath's
 Plattsburg
@@ -13757,6 +13819,7 @@ Portuguese
 Portuguese's
 Posner
 Poston
+PotPlayer
 Potawatomi
 Potawatomis
 Poteet
@@ -13980,6 +14043,7 @@ Quebeckers
 Quebecois
 Quechan
 Quechuan
+Quedlinburg
 Queensland
 Queensland's
 Queenslander
@@ -14027,6 +14091,7 @@ Qurans
 Qureshi
 RCA
 RCA's
+RSI
 Rabaul
 Rabbani
 Rabelaisian
@@ -14763,10 +14828,12 @@ Ryukyuan
 Ryukyuans
 SAIDS
 SANFL
+SCAD
 SDRAM
 SIMMs
 SIRET
 SLE
+SMTP
 SOCOM
 SOCRATES
 SOCRATES's
@@ -16273,6 +16340,7 @@ Swatow
 Swayze
 Swaziland
 Swaziland's
+SweClockers
 Sweden
 Sweden's
 Swedenborg
@@ -17211,6 +17279,8 @@ UConn
 UDP
 UI
 UIs
+UK
+UK's
 UMass
 UNCLOS
 UNODC
@@ -17220,6 +17290,7 @@ URL
 URLs
 USAAF
 USAID
+USB
 USD
 USPTO
 Ubaldo
@@ -17264,6 +17335,7 @@ Ulrich
 Ulsan
 Ulsterman
 Ulstermen
+Ultimaker
 Ultrasuede
 Uluru
 Ulyanovsk
@@ -17349,8 +17421,12 @@ Uygurs
 Uzbekistan
 Uzbekistan's
 VIBs
+VIP
+VIPs
 VOIP
 VPN
+VPNs
+VSCode
 Vaasa
 Vacaville
 Vachon
@@ -18031,6 +18107,8 @@ Wiesbaden
 Wiesel
 Wiesel's
 Wiimote
+Wiimote's
+Wiimotes
 Wikia
 Wikidata
 Wikimedia
@@ -18322,6 +18400,7 @@ Wyoming's
 Wyomingites
 Wysiwyg
 Wytheville
+XLR
 XLVII
 XPath
 Xanadu
@@ -19897,6 +19976,7 @@ adler
 adler's
 adman
 admin
+admin's
 administer
 administered
 administering
@@ -20032,6 +20112,7 @@ adrift
 adroit
 adroitly
 adroitness
+ads
 ads
 adsense
 adsorb
@@ -20832,6 +20913,9 @@ airfield
 airfield's
 airfields
 airflow
+airflow
+airflow's
+airflows
 airflows
 airfoil
 airfoils
@@ -26433,6 +26517,10 @@ babysitter
 babysitter's
 babysitters
 babysitting
+babystep
+babystepped
+babystepping
+babysteps
 babytalk
 bacalao
 bacall
@@ -35113,6 +35201,7 @@ canastota
 canavero
 cancan
 cancel
+cancel
 cancelable
 cancelation
 cancelations
@@ -39238,6 +39327,8 @@ cityscapes
 citywide
 ciudad
 ciudadanos
+civ
+civ's
 cive
 civet
 civets
@@ -39264,6 +39355,7 @@ civilizing
 civilly
 civitan
 civitas
+civs
 civs
 civvies
 civvy
@@ -46237,6 +46329,7 @@ cursor
 cursor's
 cursorial
 cursorily
+cursorless
 cursors
 cursory
 curst
@@ -56005,6 +56098,7 @@ endemicity
 endemics
 endemism
 ender
+ender
 enderlin
 enders
 endgame
@@ -57527,6 +57621,7 @@ ethereally
 etherealness
 etherial
 etheric
+ethernet
 ethernet
 etherpad
 ethers
@@ -60061,6 +60156,9 @@ feedings
 feedlot
 feedlots
 feedly
+feedrate
+feedrate's
+feedrates
 feeds
 feedstock
 feedstocks
@@ -71857,6 +71955,7 @@ hipsterism
 hipsters
 hirable
 hiragana
+hiragana
 hiram
 hiram's
 hircine
@@ -72960,6 +73059,9 @@ hotel's
 hotelier
 hoteliers
 hotels
+hotend
+hotend's
+hotends
 hotfile
 hotfix
 hotfixes
@@ -76151,8 +76253,11 @@ infight
 infighter
 infighting
 infill
+infill
+infill's
 infilled
 infilling
+infills
 infills
 infiltrate
 infiltrated
@@ -80189,6 +80294,7 @@ kampong
 kampuchea
 kamui
 kana
+kana
 kanab
 kanade
 kanak
@@ -80220,6 +80326,7 @@ kangaroos
 kangas
 kanhaiya
 kanin
+kanji
 kanji
 kannada
 kannur
@@ -80371,6 +80478,7 @@ kasumi
 kat
 kata
 katabatic
+katakana
 katakana
 katamari
 katana
@@ -81396,6 +81504,7 @@ knapsack
 knapsacks
 knapweed
 knausgaard
+knausj
 knave
 knavery
 knaves
@@ -91058,6 +91167,7 @@ mingo
 mingo's
 mings
 mingus
+mingw
 minhaj
 mini
 mini's
@@ -91371,6 +91481,7 @@ misbelief
 misbeliefs
 misbranded
 misbranding
+misc
 miscalculate
 miscalculated
 miscalculates
@@ -97158,6 +97269,9 @@ notecard
 notecards
 noted
 notepad
+notepad
+notepad's
+notepads
 notepads
 notepaper
 notes
@@ -113731,6 +113845,7 @@ reddest
 redding
 redding's
 reddish
+reddit
 reddit
 redditgifts
 redditor
@@ -130830,6 +130945,7 @@ suavely
 suaveness
 suavity
 sub
+sub
 sub's
 suba
 subacute
@@ -131173,6 +131289,7 @@ subrogation
 subroutine
 subroutines
 subrule
+subs
 subs
 subsample
 subsampled
@@ -133193,7 +133310,9 @@ synarchy
 synastry
 synaxis
 sync
+sync
 sync's
+synced
 synced
 synch
 synched
@@ -133223,6 +133342,7 @@ synchrotron
 synchrotrons
 synchs
 syncing
+syncing
 syncline
 syncopal
 syncopate
@@ -133234,6 +133354,7 @@ syncretic
 syncretism
 syncretistic
 syncretized
+syncs
 syncs
 syncytial
 syncytium
@@ -140082,6 +140203,7 @@ tzatziki
 tzipi
 tzitzis
 tzitzit
+uBlock
 ubereats
 uberpool
 uberx
@@ -143196,8 +143318,12 @@ unyielding
 unyieldingly
 unyoked
 unzip
+unzip
+unzipped
 unzipped
 unzipping
+unzipping
+unzips
 unzips
 up
 upanishad
@@ -145030,10 +145156,12 @@ vilna
 vilonia
 vilsack
 vim
+vim
 vim's
 vimana
 vimanas
 vimes
+vimium
 vims
 vin
 vina
@@ -147755,6 +147883,7 @@ wifeless
 wifely
 wifes
 wiffle
+wifi
 wifi
 wig
 wigan
