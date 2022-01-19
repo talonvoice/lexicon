@@ -1,10 +1,15 @@
+ABS
 AFRICOM
+AI
+AI's
 AIPAC
+AIs
 ALCON
 AMD
 AMD's
 AMOLED
 API
+APO
 ARPAnet
 ASPCA
 ATOC
@@ -432,6 +437,7 @@ Algona
 Algonkin
 Algonquian
 Alhambra
+AliExpress
 Alibaba
 Alioth
 Alisha
@@ -663,6 +669,7 @@ Anhui
 Anish
 Anjou
 Ankeny
+Anki
 Ankit
 Ankole
 Annabel
@@ -2670,6 +2677,7 @@ Byron's
 Byronic
 Byzantium
 Byzantium's
+CAD
 CAFOs
 CEGEP
 CEGEPs
@@ -2679,7 +2687,9 @@ COBOL
 COINTELPRO
 CONCACAF
 CONELRAD
+CPU
 CPUSA
+CPUs
 CSV
 CVS
 Cabanatuan
@@ -3833,6 +3843,7 @@ Correll
 Corrigan
 Corrigan's
 Corry
+Corsair
 Corsica
 Corsican
 Corsicana
@@ -4050,6 +4061,7 @@ Cunliffe
 Cuomo
 Cupertino
 Cupertino's
+Cura
 Curbelo
 Curiel
 Curitiba
@@ -4077,6 +4089,7 @@ Cyclades
 Cycladic
 Cyclospora
 Cydia
+Cygwin
 Cymbeline
 Cymric
 Cymru
@@ -4113,6 +4126,7 @@ Czestochowa
 DEERS
 DEFCON
 DIMMs
+DIY
 DJing
 DNS
 DOCSIS
@@ -4405,6 +4419,7 @@ Dennis
 Dennis's
 Dennison
 Dennison's
+Denon
 Denpasar
 Densmore
 Denson
@@ -4913,6 +4928,7 @@ EEPROM
 ELINT
 EMFs
 ENIAC
+EQ
 EULAs
 Eadie
 Eads
@@ -5069,6 +5085,7 @@ Eidson
 Eifel
 Eiffel
 Eiffel's
+Eigen
 Eiger
 Eilat
 Eileen
@@ -5104,6 +5121,7 @@ Eldridge
 Eleanor
 Eleanor's
 Eleazar
+Electrum
 Eleonora
 Eleusinian
 Eleusis
@@ -5180,6 +5198,8 @@ Elmore's
 Elohim
 Elohist
 Eloise
+Elon
+Elon's
 Elora
 Eloy
 Elrod
@@ -6039,10 +6059,13 @@ Fushun
 Fuzhou
 Fyodor
 GBP
+GCC
 GCSEs
 GLAAD
 GLONASS
 GOPers
+GPU
+GPUs
 GTE
 GUAM
 GUAM's
@@ -6219,6 +6242,7 @@ Gaynor
 Gazan
 Gazans
 Gaziantep
+Gcode
 Gdansk
 Gdynia
 Geary
@@ -6426,6 +6450,8 @@ Gisele
 Giselle
 GitHub
 GitHub's
+GitLab
+GitLab's
 Gitlin
 Gitmo
 Giulia
@@ -6890,6 +6916,7 @@ Gwinnett
 Gwynedd
 HAARP
 HBCUs
+HDMI
 HIPAA
 HOAs
 HSBC
@@ -8055,12 +8082,14 @@ I'll
 I'm
 I've
 IANAL
+IBAN
 IBM
 IBM's
 ICANN
 ICYMI
 IJssel
 IJsselmeer
+IMDb
 INMARSAT
 IP
 ISCSI
@@ -8375,6 +8404,7 @@ Izmit
 JCPOA
 JFK
 JFK's
+JLPT
 JSONP
 Jabal
 Jabalpur
@@ -9490,6 +9520,7 @@ Kristaps
 Kristensen
 Kristian
 Kristiansand
+Kristianstad
 Kristie
 Kristin
 Kristina
@@ -9566,6 +9597,7 @@ Kythera
 Kyushu
 LBJ
 LBJ's
+LG
 LaFrance
 LaTonya
 Labadie
@@ -10035,6 +10067,7 @@ Libya
 Libya's
 Libyan
 Libyans
+Lichess
 Lichfield
 Lichtenstein
 Lichtenstein's
@@ -10482,6 +10515,7 @@ MMORPG
 MNIST
 MOBAs
 MOOCs
+MSI
 Maarten
 Maastricht
 Mabel
@@ -12150,6 +12184,7 @@ NAACP
 NAAFI
 NAFLD
 NAIRU
+NASDAQ
 NHLer
 NHLers
 NORML
@@ -12157,6 +12192,7 @@ NPAPI
 NSAID
 NSAIDs
 NSDAP
+NVIDIA
 Nabataean
 Nabatean
 Nabateans
@@ -12368,6 +12404,7 @@ Neuberger
 Neufeld
 Neuman
 Neumann
+Neuralink
 Neurosci
 Neurospora
 Nevadan
@@ -12584,6 +12621,7 @@ Norbert
 Norbert's
 Norberto
 Norco
+Nordea
 Nordics
 Nordland
 Nordman
@@ -12881,7 +12919,9 @@ Oostende
 Opel
 Opel's
 Opelousas
+OpenAI
 OpenGL
+OpenSCAD
 Opheim
 Ophelia
 Ophelia's
@@ -12891,6 +12931,7 @@ Oppenheimer
 Oppenheimer's
 Oprah
 Oprah's
+Optikey
 Orangeburg
 Orangeism
 Orangeman
@@ -13040,9 +13081,18 @@ Ozawa's
 Ozuna
 Ozymandias
 PACS
+PC
+PC's
+PCs
 PDF
+PET
+PETG
+PID
+PLA
 POCUS
 POSIX
+PSU
+PSUs
 Pablo
 Pablo's
 Pabst
@@ -13978,6 +14028,7 @@ Quebeckers
 Quebecois
 Quechan
 Quechuan
+Quedlinburg
 Queensland
 Queensland's
 Queenslander
@@ -14025,6 +14076,7 @@ Qurans
 Qureshi
 RCA
 RCA's
+RSI
 Rabaul
 Rabbani
 Rabelaisian
@@ -14761,10 +14813,12 @@ Ryukyuan
 Ryukyuans
 SAIDS
 SANFL
+SCAD
 SDRAM
 SIMMs
 SIRET
 SLE
+SMTP
 SOCOM
 SOCRATES
 SOCRATES's
@@ -17209,6 +17263,8 @@ UConn
 UDP
 UI
 UIs
+UK
+UK's
 UMass
 UNCLOS
 UNODC
@@ -17218,6 +17274,7 @@ URL
 URLs
 USAAF
 USAID
+USB
 USD
 USPTO
 Ubaldo
@@ -17347,8 +17404,12 @@ Uygurs
 Uzbekistan
 Uzbekistan's
 VIBs
+VIP
+VIPs
 VOIP
 VPN
+VPNs
+VSCode
 Vaasa
 Vacaville
 Vachon
@@ -18029,6 +18090,8 @@ Wiesbaden
 Wiesel
 Wiesel's
 Wiimote
+Wiimote's
+Wiimotes
 Wikia
 Wikidata
 Wikimedia
@@ -18320,6 +18383,7 @@ Wyoming's
 Wyomingites
 Wysiwyg
 Wytheville
+XLR
 XLVII
 XPath
 Xanadu
@@ -19895,6 +19959,7 @@ adler
 adler's
 adman
 admin
+admin's
 administer
 administered
 administering
@@ -20830,6 +20895,7 @@ airfield
 airfield's
 airfields
 airflow
+airflow's
 airflows
 airfoil
 airfoils
@@ -39229,6 +39295,8 @@ cityscapes
 citywide
 ciudad
 ciudadanos
+civ
+civ's
 cive
 civet
 civets
@@ -46226,6 +46294,7 @@ cursor
 cursor's
 cursorial
 cursorily
+cursorless
 cursors
 cursory
 curst
@@ -72920,6 +72989,9 @@ hotel's
 hotelier
 hoteliers
 hotels
+hotend
+hotend's
+hotends
 hotfile
 hotfix
 hotfixes
@@ -91007,6 +91079,7 @@ mingo
 mingo's
 mings
 mingus
+mingw
 minhaj
 mini
 mini's
@@ -91320,6 +91393,7 @@ misbelief
 misbeliefs
 misbranded
 misbranding
+misc
 miscalculate
 miscalculated
 miscalculates
@@ -97515,7 +97589,6 @@ nuzzle
 nuzzled
 nuzzles
 nuzzling
-nvidia
 ny
 nyac
 nyack
@@ -139990,6 +140063,7 @@ tzatziki
 tzipi
 tzitzis
 tzitzit
+uBlock
 ubereats
 uberpool
 uberx
@@ -144942,6 +145016,7 @@ vim's
 vimana
 vimanas
 vimes
+vimium
 vims
 vin
 vina
