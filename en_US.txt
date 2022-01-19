@@ -38333,12 +38333,7 @@ chines
 chinese
 chinese's
 ching
-chink
 chinkara
-chinked
-chinking
-chinks
-chinky
 chinle
 chinless
 chinn
@@ -38569,8 +38564,6 @@ cholinergic
 cholinesterase
 cholla
 chollas
-cholo
-cholos
 cholula
 chometz
 chomp
@@ -40967,7 +40960,6 @@ colorblind
 colorblindness
 colorectal
 colored
-coloreds
 colorfast
 colorful
 colorfully
@@ -41001,7 +40993,6 @@ colostomy
 colostrum
 colour
 coloured
-coloureds
 colourful
 colouring
 colourless
@@ -46698,11 +46689,8 @@ daggerlike
 daggers
 daggy
 dagmar
-dago
 dagoba
-dagoes
 dagon
-dagos
 dags
 daguerre
 daguerreotype
@@ -47028,9 +47016,6 @@ darkening
 darkens
 darker
 darkest
-darkey
-darkie
-darkies
 darking
 darkish
 darkling
@@ -47047,7 +47032,6 @@ darkside
 darksiders
 darksome
 darkvision
-darky
 darla
 darlan
 darling
@@ -52300,7 +52284,6 @@ doffing
 doffs
 dog
 dog's
-dogan
 dogberry
 dogcart
 dogcatcher
@@ -59247,14 +59230,8 @@ fag
 fagan
 fagged
 fagging
-faggot
-faggotry
-faggots
-faggy
 fagin
 fagin's
-fagot
-fagots
 fags
 fagus
 fah
@@ -67307,13 +67284,9 @@ gowned
 gowns
 gowrie
 gox
-goy
 goya
 goya's
 goyal
-goyim
-goyish
-goys
 graal
 grab
 grab's
@@ -68082,9 +68055,6 @@ grindstone
 grindstones
 grindy
 griner
-gringa
-gringo
-gringos
 grinned
 grinning
 grins
@@ -69747,8 +69717,6 @@ hanzal
 hanzo
 hao
 hao's
-haole
-haoles
 haoma
 hap
 hapax
@@ -70718,10 +70686,8 @@ heavyset
 heavyweight
 heavyweights
 hebdo
-hebe
 heben
 heber
-hebes
 hebo
 hecatomb
 hecatombs
@@ -72546,12 +72512,8 @@ honk
 honked
 honker
 honkers
-honkey
-honkies
 honking
 honks
-honky
-honkytonk
 honor
 honor's
 honora
@@ -73425,7 +73387,6 @@ hunkered
 hunkering
 hunkers
 hunks
-hunky
 hunnam
 huns
 hunspell
@@ -79218,7 +79179,6 @@ jests
 jesu
 jesuit
 jesuit's
-jesuitical
 jesup
 jesus
 jesus's
@@ -80192,8 +80152,6 @@ kana
 kanab
 kanade
 kanak
-kanaka
-kanakas
 kanaks
 kanamycin
 kanan
@@ -80963,8 +80921,6 @@ kifirin
 kihei
 kihuen
 kijiji
-kike
-kikes
 kikuyu
 kikuyus
 kila
@@ -83744,14 +83700,10 @@ leptospira
 leptospirosis
 lepus
 lerp
-les
-les's
 lesa
 lesbian
 lesbianism
 lesbians
-lesbo
-lesbos
 lescott
 lesean
 lesion
@@ -83977,7 +83929,6 @@ leys
 leyte
 leyton
 leyva
-lez
 lhota
 li
 li's
@@ -92406,8 +92357,6 @@ mongolia
 mongolia's
 mongolian
 mongolic
-mongoloid
-mongoloids
 mongols
 mongoose
 mongooses
@@ -93603,9 +93552,6 @@ mulan
 mulaney
 mularkey
 mulatta
-mulatto
-mulattoes
-mulattos
 mulayam
 mulberries
 mulberry
@@ -94637,8 +94583,6 @@ nana
 nanak
 nanak's
 nanas
-nance
-nancies
 nancy
 nancy's
 nancys
@@ -95280,15 +95224,9 @@ negri
 negrito
 negritos
 negritude
-negro
-negro's
-negroes
-negroid
-negroids
 negron
 negroni
 negronis
-negros
 negs
 negus
 nehalem
@@ -96014,15 +95952,9 @@ niger
 niger's
 nigerian
 nigerians
-nigga
 niggard
 niggardliness
 niggardly
-niggas
-niggaz
-nigger
-nigger's
-niggers
 niggle
 niggled
 niggles
@@ -101659,9 +101591,6 @@ papillomaviruses
 papillon
 papillons
 papini
-papish
-papist
-papists
 papoose
 papooses
 pappa
@@ -102910,7 +102839,6 @@ peck's
 pecked
 pecker
 peckers
-peckerwood
 pecking
 peckinpah
 peckinpah's
@@ -104852,8 +104780,6 @@ picatinny
 picayune
 piccadilly
 piccalilli
-piccaninnies
-piccaninny
 piccard
 piccata
 picchu
@@ -104866,8 +104792,6 @@ pichai
 picher
 pick
 pick's
-pickaninnies
-pickaninny
 pickax
 pickaxe
 pickaxes
@@ -106523,9 +106447,6 @@ poky
 pol
 pol's
 pola
-polack
-polacks
-polak
 polamalu
 polanyi
 polar
@@ -106913,8 +106834,6 @@ pomfret
 pominville
 pommel
 pommels
-pommie
-pommy
 pomo
 pomodoro
 pomp
@@ -107022,8 +106941,6 @@ poods
 pooed
 poof
 poofs
-poofter
-poofters
 poofy
 pooh
 pooh's
@@ -107074,7 +106991,6 @@ pope
 pope's
 popemobile
 popemobiles
-popery
 popes
 popeye
 popeye's
@@ -107082,7 +106998,6 @@ popeyes
 popgun
 popguns
 popinjay
-popish
 poplar
 poplars
 poplin
@@ -123293,7 +123208,6 @@ shikar
 shikaree
 shikari
 shikoku
-shiksa
 shill
 shilled
 shillelagh
@@ -127893,9 +127807,6 @@ spicier
 spiciest
 spiciness
 spicing
-spick
-spicks
-spics
 spicule
 spicules
 spicy
@@ -147132,8 +147043,6 @@ westwards
 westworld
 wet
 weta
-wetback
-wetbacks
 wether
 wethers
 wethersfield
@@ -147529,9 +147438,6 @@ whitewashing
 whitewater
 whitewing
 whitewood
-whitey
-whitey's
-whiteys
 whither
 whithersoever
 whities
@@ -148353,11 +148259,9 @@ woefully
 woes
 woful
 wofully
-wog
 wogan
 wogan's
 woggle
-wogs
 wojnarowski
 wok
 woke
@@ -148604,8 +148508,6 @@ wootz
 woozily
 wooziness
 woozy
-wop
-wops
 word
 word's
 wordage
@@ -149414,9 +149316,7 @@ yew's
 yews
 yglesias
 ygo
-yid
 yiddish
-yids
 yield
 yielded
 yielder
