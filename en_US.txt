@@ -13720,8 +13720,6 @@ Pontotoc
 Pontypool
 Pontypridd
 Ponzis
-Pool
-Pool's
 Pooley
 Poona
 Popejoy
@@ -106950,6 +106948,7 @@ pooja
 poojas
 pook
 pooka
+pool
 poole
 poole's
 pooled
