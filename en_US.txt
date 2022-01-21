@@ -20787,8 +20787,6 @@ ahronoth
 ahs
 ahsoka
 ahwaz
-ai
-ai's
 aia
 aias
 aibonito
@@ -20986,7 +20984,6 @@ airwomen
 airworthiness
 airworthy
 airy
-ais
 aisha
 aisha's
 aisle
@@ -78182,7 +78179,6 @@ ionosphere
 ionospheric
 ions
 iontophoresis
-ios
 iota
 iota's
 iotas
@@ -78190,8 +78186,6 @@ iovine
 ipecac
 iphoto
 iplayer
-ipod
-ipod's
 ipoh
 ipolitics
 ippon
@@ -78639,7 +78633,6 @@ ito
 ito's
 its
 itself
-itunes
 iure
 iva
 ivan
@@ -143481,8 +143474,6 @@ urgently
 urges
 urging
 urgings
-uri
-uri's
 urias
 uric
 uricase
@@ -145700,7 +145691,6 @@ vril
 vroom
 vrouw
 vrows
-vscode
 vtable
 vucci
 vucevic
