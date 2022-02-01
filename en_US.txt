@@ -14820,8 +14820,6 @@ SIRET
 SLE
 SMTP
 SOCOM
-SOCRATES
-SOCRATES's
 SPARQL
 SSRI
 SSRIs
@@ -15809,6 +15807,8 @@ Socceroos
 Socinian
 Socinians
 Socotra
+Socrates
+Socrates's
 Soderberg
 Sofie
 Sogdian
