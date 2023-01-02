@@ -85827,7 +85827,6 @@ lozano
 lozano's
 lozenge
 lozenges
-ls
 luajit
 lualaba
 luang
