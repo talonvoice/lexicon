@@ -1,5 +1,10 @@
 3DES three D E S
+3DS three D S
 401k four oh one K
+6502 sixty five oh two
+6800 sixty eight hundred
+8051 eighty fifty one
+8080 eighty eighty
 A1 A one
 AA
 AABC
@@ -43,6 +48,8 @@ AU
 AUC
 AV
 AVI
+AVR
+AVR32 A V R thirty two
 AWACS
 AWS
 Aachen
@@ -5034,6 +5041,7 @@ Dyson
 Dyson's
 Dzungaria
 EA
+EC2 E C two
 ECC
 ECDSA
 ECMAScript
@@ -7098,6 +7106,9 @@ Gwendolyn's
 Gwinn
 Gwinnett
 Gwynedd
+H1B H one B
+H2A H two A
+H2B H two B
 H2O H two O
 H2O2 H two O two
 HA
@@ -8280,6 +8291,8 @@ I'd
 I'll
 I'm
 I've
+I2C I squared C
+I2S I squared S
 IANAL
 IBAN
 IBM
@@ -9834,6 +9847,7 @@ Kyushu
 LA
 LBJ
 LBJ's
+LC3 L C three
 LD50 L D fifty
 LDK
 LG
@@ -10781,6 +10795,7 @@ MNIST
 MO
 MOBAs
 MOOCs
+MP3 M P three
 MRF
 MSAL
 MSI
@@ -13386,6 +13401,7 @@ Ozawa
 Ozawa's
 Ozuna
 Ozymandias
+P2P P two P
 PACS
 PBKDF2 P B K D F two
 PBUH
@@ -13396,6 +13412,8 @@ PCP
 PCR
 PCs
 PDF
+PDP-11 P D P eleven
+PDP-8 P D P eight
 PE
 PET
 PETG
@@ -13415,6 +13433,10 @@ POCUS
 POSIX
 PPS
 PS
+PS1 P S one
+PS2 P S two
+PS3 P S three
+PS4 P S four
 PSPV
 PSSI
 PSU
@@ -14415,6 +14437,7 @@ RC4 R C four
 RCA
 RCA's
 RDSI
+RISC-V risk five
 RLD
 RN
 RNA
@@ -15166,6 +15189,7 @@ Ryland's
 Ryukyu
 Ryukyuan
 Ryukyuans
+S3 S three
 SAIDS
 SANFL
 SCAD
@@ -16772,6 +16796,7 @@ Szeged
 Szombathely
 Szymanowski
 T'ang
+T20 T twenty
 T5 T five
 TA
 TBHQ
@@ -18128,6 +18153,7 @@ Vouvray
 Vulcans
 Vyacheslav
 Vyborg
+W3C W three C
 WAAF
 WACs
 WHATWG
@@ -18810,6 +18836,7 @@ Wyoming's
 Wyomingites
 Wysiwyg
 Wytheville
+X11 X eleven
 XL
 XLR
 XLVII
@@ -19015,6 +19042,7 @@ Yvette
 Yvette's
 Yvonne
 Yvonne's
+Z80 Z eighty
 ZAR
 ZELL
 ZFS
@@ -19156,6 +19184,7 @@ aalst
 aalto
 aamer
 aamir
+aarch64 A arch sixty four
 aardvark
 aardvarks
 aardwolf
@@ -22397,6 +22426,7 @@ ambusher
 ambushers
 ambushes
 ambushing
+amd64 A M D 64
 ameba
 amebic
 ameer
@@ -24835,6 +24865,7 @@ arlott
 arlovski
 arm
 arm's
+arm64 arm sixty four
 arma
 arma's
 armada
@@ -86755,6 +86786,7 @@ lyssas
 lytic
 lyttleton
 lyx
+m68k M sixty eight K
 ma
 ma'am
 ma's
@@ -149399,6 +149431,8 @@ wyte
 wyvern
 wyvern's
 wyverns
+x86 X eight six
+x86_64 X eighty six sixty four
 xamarin
 xantham
 xanthan
