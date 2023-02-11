@@ -1,18 +1,48 @@
+3DES three D E S
+401k four oh one K
+A1 A one
+AA
+AABC
+ABC
+ABDL
+ABI
 ABS
+ADE
+AEMT
+AES-128 A E S one twenty eight
+AES-256 A E S two fifty six
+AES-512 A E S five twelve
 AFRICOM
 AI
 AI's
 AIPAC
+AIVD
 AIs
 ALCON
+ALS
+AM
 AMD
 AMD's
 AMOLED
+AOC
+AP
+APAP
+APGAR
 API
 APO
+ARN
 ARPAnet
+ASFR
+ASMR
 ASPCA
+AT
+ATA
+ATG
 ATOC
+AU
+AUC
+AV
+AVI
 AWACS
 AWS
 Aachen
@@ -1198,15 +1228,32 @@ Azrael
 Aztecs
 Azzam
 Azzarello
+BAAM
 BBB
 BBB's
+BBW
+BCG
+BD
+BDSM
+BEA
+BGM
+BITNET
+BL
+BLAKE2 blake two
+BLAKE2b blake two B
+BLAKE2s blake two S
+BLT
 BMW
 BMW's
 BOINC
 BPA
 BPAs
+BS
 BSD
 BSD's
+BV
+BWV
+BX
 Baalbek
 Baalim
 Baath
@@ -2690,22 +2737,56 @@ Byron's
 Byronic
 Byzantium
 Byzantium's
+C2O C two O
+CA
 CAD
+CADASIL
 CAFOs
 CAPTCHA
+CB
+CC
+CC-BY C C B Y
+CC-BY-SA C C B Y S A
+CC-SA C C S A
+CCCP
+CCD
+CD
+CDC
+CDF
+CED
 CEGEP
 CEGEPs
 CENTCOM
+CFK
+CFNM
+CH
 CHEOPS
+CHF
+CIM
+CJNG
+CLSC
+CMNF
+CO
 COBOL
 COINTELPRO
 CONCACAF
 CONELRAD
+CONOPS
+CPR
+CPSA
 CPU
 CPUSA
 CPUs
+CQ
+CSA
+CSS
 CSV
+CUDA
+CV
+CVN
+CVPI
 CVS
+CYLOR
 Cabanatuan
 Cabazon
 Cabbagetown
@@ -3179,6 +3260,7 @@ Ceylon
 Ceylon's
 Ceylonese
 Ceyx
+ChaCha20 cha cha twenty
 Chabad
 Chabon
 Chacon
@@ -4137,13 +4219,28 @@ Czechoslovaks
 Czechs
 Czerny
 Czestochowa
+DB
+DC
+DD
+DDR
 DEERS
 DEFCON
+DES
+DFL
+DFTBA
 DIMMs
 DIY
+DJ
 DJing
+DL
+DLL
+DMs
+DNA
 DNS
 DOCSIS
+DQ
+DUHAM
+DV
 Dabney
 Dabneys
 Dacca
@@ -4936,16 +5033,35 @@ Dysart
 Dyson
 Dyson's
 Dzungaria
+EA
+ECC
 ECDSA
 ECMAScript
 ECOWAS
 EDOs
+EE
 EEPROM
+EGOT
+EKG
 ELINT
 EMFs
+EMV
 ENIAC
+EO
+EPR
+EPS
 EQ
+EQAO
+ERV
+ES
+ET
+ETD
+ETS
+ETTL
+EU
 EULAs
+EUR
+EXORD
 Eadie
 Eads
 Eagleton
@@ -5547,11 +5663,43 @@ Ezekiel
 Ezekiel's
 Ezra
 Ezra's
+F1 F one
+F10 F ten
+F11 F eleven
+F12 F twelve
+F13 F thirteen
+F14 F fourteen
+F15 F fifteen
+F16 F sixteen
+F17 F seventeen
+F18 F eighteen
+F19 F nineteen
+F2 F two
+F20 F twenty
+F21 F twenty one
+F22 F twenty two
+F23 F twenty three
+F24 F twenty four
+F3 F three
+F4 F four
+F5 F five
+F6 F six
+F7 F seven
+F8 F eight
+F9 F nine
+FAC
 FAFSA
 FDR
 FDR's
+FIGMO
+FINA
+FIS
+FM
+FMAIT
+FMAITP
 FPGAs
 FRAND
+FSB
 FSF
 FSF's
 Fabianism
@@ -6074,19 +6222,39 @@ Fusel
 Fushun
 Fuzhou
 Fyodor
+G20 G twenty
+GA
 GBP
+GBS
+GC
 GCC
 GCSEs
+GDOR
+GFY
+GG
+GI
 GLAAD
 GLONASS
+GLU
+GNC
+GOP
 GOPers
+GP
+GPIO
+GPL
+GPLv2 G P L V two
+GPLv3 G P L V three
 GPU
 GPUs
+GRU
 GTE
 GUAM
 GUAM's
 GUI
 GUIs
+GUNT
+GVHD
+GWA
 Gaborone
 Gabriela
 Gabriele
@@ -6930,16 +7098,31 @@ Gwendolyn's
 Gwinn
 Gwinnett
 Gwynedd
+H2O H two O
+H2O2 H two O two
+HA
 HAARP
 HBCUs
+HBD
+HDD
 HDMI
+HELLP
+HGV
+HIFK
+HIJK
 HIPAA
+HIV
+HKCU
+HL7 H L seven
+HMAC
 HOAs
+HOV
 HSBC
 HSBC's
 HTML
 HTTP
 HTTPS
+HTTPd
 HUD
 HZ
 HaShem
@@ -8102,13 +8285,31 @@ IBAN
 IBM
 IBM's
 ICANN
+ICU
 ICYMI
+IDEF
+IGEAN
+IHS
 IJssel
 IJsselmeer
 IMDb
+IMSP
 INMARSAT
+IO
+IOSAPIC
 IP
+IPA
+IPS
+IR
+IRA
+IRC
+IRL
+ISCII
 ISCSI
+ISP
+ISWAP
+IT
+IV
 Iago
 Iago's
 Ian
@@ -8417,10 +8618,18 @@ Izanami
 Izhevsk
 Izmir
 Izmit
+JAPH
+JBiebs
 JCPOA
+JDSN
 JFK
 JFK's
+JG
+JJ
+JK
 JLPT
+JPMorgan
+JRM
 JSONP
 Jabal
 Jabalpur
@@ -8884,12 +9093,21 @@ Justinian's
 Justino
 Jusuf
 Jutland
+KBs
+KDE
 KFC
 KFC's
+KFZ
+KKB
+KKK
+KO
 KO'd
 KREEP
+KRI
+KTV
 KUN
 KYD
+KZ
 Kaaba
 Kaboul
 Kabuli
@@ -9613,9 +9831,27 @@ Kyrgyzstan's
 Kyrgyzstani
 Kythera
 Kyushu
+LA
 LBJ
 LBJ's
+LD50 L D fifty
+LDK
 LG
+LGBTA
+LGPL
+LGPLv2 L G P L V two
+LGPLv3 L G P L V three
+LJBF
+LKK
+LLC
+LOLZ
+LP
+LQA
+LQE
+LSD
+LSP
+LSTM
+LTMPC
 LaFrance
 LaTonya
 Labadie
@@ -10522,18 +10758,34 @@ Lytton
 Lytton's
 Lyudmila
 MANPADS
+MC
 MCI
 MCI's
+MD
+MD4 M D four
+MD5 M D five
+MDMA
+MFS
 MGM
 MGM's
 MGTOW
 MHz
+MI5 M I five
+MI6 M I six
+MI9 M I nine
 MIPS
+MIT
+MK
 MMORPG
 MNIST
+MO
 MOBAs
 MOOCs
+MRF
+MSAL
 MSI
+MSNBC
+MV
 Maarten
 Maastricht
 Mabel
@@ -12179,6 +12431,7 @@ Mustafa
 Mustapha
 Mustelidae
 Mwanza
+MySQL
 Myanma
 Mycenae
 Mycenaean
@@ -12198,19 +12451,36 @@ Mytilene
 Myton
 Myung
 N'Djamena
+NA
 NAACP
 NAAFI
 NAFLD
 NAIRU
 NASDAQ
+NB
+NC
+NCTA
+ND
+NE1K N E one K
+NE2K N E two K
+NFC
+NFT
+NG
+NGL
 NHLer
 NHLers
+NIFO
+NL
 NORML
 NPAPI
+NRG
 NSAID
 NSAIDs
 NSDAP
 NVIDIA
+NX
+NZ
+NZer
 Nabataean
 Nabatean
 Nabateans
@@ -12753,13 +13023,27 @@ O'Neill
 O'Neill's
 O'Rourke
 O'Rourke's
+OA
+OB
 OCILLA
+OEM
+OFC
+OG
 OK'd
 OK's
 OKed
 OKing
+OL
 OLEDs
+OMG
+OMGWTFBBQ
+OP
+OPQRST
 OPSEC
+OS
+OT
+OVCW
+OVNI
 OWS
 Oahu
 Oahu's
@@ -13103,18 +13387,39 @@ Ozawa's
 Ozuna
 Ozymandias
 PACS
+PBKDF2 P B K D F two
+PBUH
 PC
 PC's
+PCOS
+PCP
+PCR
 PCs
 PDF
+PE
 PET
 PETG
+PG
+PGSO
+PHP
 PID
+PJ
 PLA
+PLL
+PLP
+PM
+PMS
+PMV
+POC
 POCUS
 POSIX
+PPS
+PS
+PSPV
+PSSI
 PSU
 PSUs
+PT
 Pablo
 Pablo's
 Pabst
@@ -13762,6 +14067,7 @@ Polly's
 Polonization
 Polson
 Poltava
+Poly1305 poly thirteen oh five
 Polybius
 Polydeuces
 Polynesia
@@ -13826,6 +14132,7 @@ Portugal's
 Portuguese
 Portuguese's
 Posner
+PostgreSQL postgres
 Poston
 Potawatomi
 Potawatomis
@@ -14017,6 +14324,12 @@ Pythagoreans
 Pythian
 Pythias
 Pythonesque
+QA
+QB
+QC
+QFFFS
+QGD
+QID
 Qaddafi
 Qaddafi's
 Qadhafi
@@ -14096,9 +14409,29 @@ Quran
 Quran's
 Qurans
 Qureshi
+RA
+RATM
+RC4 R C four
 RCA
 RCA's
+RDSI
+RLD
+RN
+RNA
+RNIB
+RNN
+RNR
+RPA
+RPC
+RPG
+RPK
+RSA
 RSI
+RSVP
+RTFA
+RTSP
+RV
+RX
 Rabaul
 Rabbani
 Rabelaisian
@@ -14837,16 +15170,42 @@ SAIDS
 SANFL
 SCAD
 SDRAM
+SEO
+SERCA
+SHA-1 sha one
+SHA-256 sha two fifty six
+SHA-3 sha three
+SHA-384 sha three eighty four
+SHA-512 sha five twelve
+SIGMET
 SIMMs
 SIRET
 SLE
+SMAC
+SMOrc
+SMP
 SMTP
+SNPP
+SO
+SOAB
 SOCOM
 SPARQL
+SPP
+SQL
+SSD
+SSL
 SSRI
 SSRIs
+ST
+STD
+STI
+STTK
 SVG
 SVGs
+SVO
+SVR
+SWM
+SYRIZA
 Saakashvili
 Saanen
 Saanich
@@ -16413,8 +16772,29 @@ Szeged
 Szombathely
 Szymanowski
 T'ang
+T5 T five
+TA
+TBHQ
+TCA
 TCP
+TCXO
 THAAD
+THC
+TJLC
+TK
+TLC
+TLE
+TLS
+TNT
+TOCFL
+TPO
+TS
+TSA
+TTFN
+TV
+TW
+TWT
+TX
 Tabatha
 Tabitha
 Tabitha's
@@ -17285,6 +17665,8 @@ UCLA
 UCLA's
 UConn
 UDP
+UGA
+UGT
 UI
 UIs
 UK
@@ -17292,15 +17674,23 @@ UK's
 UMass
 UNCLOS
 UNODC
+UNTAC
+UNTAET
 URI
 URIs
 URL
 URLs
+USA
 USAAF
 USAID
 USB
 USD
+USL
+USO
+USP
 USPTO
+UTC
+UTFSE
 Ubaldo
 Ubangi
 Ubers
@@ -17427,13 +17817,24 @@ Uyghurs
 Uygurs
 Uzbekistan
 Uzbekistan's
+VACTERL
+VAD
+VBAC
+VHS
 VIBs
 VIP
 VIPs
+VK
+VMware
+VN
 VOIP
 VPN
 VPNs
+VPSO
+VR
+VS
 VSCode
+VSG
 Vaasa
 Vacaville
 Vachon
@@ -17730,9 +18131,11 @@ Vyborg
 WAAF
 WACs
 WHATWG
+WHR
 WM
 WM's
 WMATA
+WR
 WSDOT
 Waban
 Wabash
@@ -18407,9 +18810,13 @@ Wyoming's
 Wyomingites
 Wysiwyg
 Wytheville
+XL
 XLR
 XLVII
+XP
 XPath
+XPer
+XS
 Xanadu
 Xanadu's
 Xanax
@@ -18436,6 +18843,8 @@ Xinjiang
 Xizang
 Xmas
 Xuzhou
+YASD
+YELLIS
 Yaakov
 Yadav
 Yafo
@@ -18606,6 +19015,7 @@ Yvette
 Yvette's
 Yvonne
 Yvonne's
+ZAR
 ZELL
 ZFS
 Zabrze
@@ -54235,6 +54645,7 @@ dzerzhinsky
 dzhokhar
 e'en
 e'er
+e.g. E G
 eDNA
 eDNA's
 eLearning
@@ -57535,8 +57946,8 @@ eta
 eta's
 etalon
 etas
-etcetera
-etceteras
+etc
+etc etcetera
 etch
 etchant
 etched
@@ -74072,6 +74483,7 @@ hysterically
 hysterics
 hythe
 hyung
+i.e. I E
 iBook
 iBooks
 iDevice
@@ -79731,11 +80143,11 @@ joystick
 joysticks
 joystiq
 jpegs
-jpmorgan
 jruby
 js
 jsfiddle
 jshint
+json
 jsonb
 jstor
 juan
@@ -145382,7 +145794,6 @@ vlissingen
 vlogger
 vlogs
 vmotion
-vmware
 voca
 vocab
 vocables
