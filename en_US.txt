@@ -81813,7 +81813,6 @@ heapy
 hear
 hearable
 heard
-heare
 hearer
 hearer's
 hearers
