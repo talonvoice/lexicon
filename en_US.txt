@@ -151237,6 +151237,7 @@ tzipi
 tzitzis
 tzitzit
 uBlock
+uber
 ubereats
 uberpool
 uberx
