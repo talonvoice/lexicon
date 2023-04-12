@@ -7313,6 +7313,7 @@ Doyle
 Doyle's
 Doylestown
 Doyon
+Dr. dr
 Dracula
 Dracula's
 Dracut
@@ -18663,6 +18664,9 @@ Mozarabs
 Mozart
 Mozart's
 Mozes
+Mr. mr
+Mrs. mrs
+Ms. ms
 Muammar
 Mubarak
 Mubarak's
