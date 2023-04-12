@@ -515,6 +515,7 @@ ARMI
 ARN
 ARNT
 ARO
+ARP arp
 ARPA
 ARPAnet
 ARPE
@@ -655,7 +656,6 @@ AVM
 AVMA
 AVN
 AVP
-AVR
 AVR
 AVR32 A V R thirty two
 AVT
@@ -3878,6 +3878,12 @@ CAS
 CASC
 CASI
 CASP
+CAT5 cat five
+CAT5E cat five E
+CAT6 cat six
+CAT6A cat six A
+CAT7 cat seven
+CAT8 cat eight
 CATA
 CATH
 CATI
@@ -4279,6 +4285,7 @@ CMN
 CMNF
 CMO
 CMOS
+CMOS C mos
 CMP
 CMPA
 CMPL
@@ -4444,6 +4451,7 @@ CRAF
 CRB
 CRBN
 CRC
+CRC32 C R C thirty two
 CRD
 CRE
 CREA
@@ -12650,6 +12658,7 @@ IDOT
 IDP
 IDQ
 IDR
+IDS
 IDSA
 IDT
 IDU
@@ -13130,6 +13139,7 @@ IWW
 IXGB
 IXON
 IYCF
+IaaS I A A S
 Iago
 Iago's
 Ian
@@ -18825,6 +18835,7 @@ NASDAQ
 NASL
 NASM
 NASS
+NAT
 NATA
 NAU
 NAV
@@ -21055,6 +21066,7 @@ POLG
 POMC
 PON
 PONV
+POP
 POPC
 POPF
 POPG
@@ -21318,6 +21330,7 @@ PYY
 PZA
 PZQ
 PZT
+PaaS P A A S
 Pablo
 Pablo's
 Pabst
@@ -22798,6 +22811,7 @@ RSS
 RSSI
 RSSL
 RST
+RSTP
 RSU
 RSV
 RSVD
@@ -24203,6 +24217,7 @@ SSF
 SSFP
 SSFR
 SSG
+SSH
 SSI
 SSID
 SSIM
@@ -24358,6 +24373,7 @@ SYT
 SYTO
 SZA
 SZE
+SaaS S A A S
 Saakashvili
 Saanen
 Saanich
@@ -26005,6 +26021,7 @@ TCN
 TCNQ
 TCO
 TCP
+TCP/IP T C P I P
 TCPA
 TCPS
 TCR
@@ -27966,6 +27983,7 @@ VKEY
 VKH
 VLA
 VLAN
+VLAN V lan
 VLB
 VLBA
 VLBI
@@ -30718,6 +30736,7 @@ acinar
 acing
 acini
 acis
+ack
 ackbar
 ackee
 acker
@@ -76451,6 +76470,7 @@ gazumped
 gazza
 gazzetta
 gbagbo
+gbps G B P S
 gchat
 gd
 gd's
@@ -100004,6 +100024,7 @@ mb
 mbappe
 mbira
 mboya
+mbps M B P S
 mcalister
 mcalister's
 mcallen
