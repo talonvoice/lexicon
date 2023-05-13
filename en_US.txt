@@ -6,7 +6,6 @@
 6800 sixty eight hundred
 8051 eighty fifty one
 8080 eighty eighty
-A1 A one
 AA
 AAA
 AAAA
