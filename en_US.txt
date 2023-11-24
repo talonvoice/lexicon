@@ -73358,6 +73358,7 @@ flutter
 fluttered
 fluttering
 flutters
+fluttershy
 fluttery
 fluty
 fluvial
